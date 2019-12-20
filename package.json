@@ -1,0 +1,19 @@
+{
+  "name": "learningtypescript",
+  "version": "1.0.0",
+  "description": "Baby steps in Typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashankKeshava/LearningTypescript.git"
+  },
+  "author": "Shashank K <keshavashashank@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashankKeshava/LearningTypescript/issues"
+  },
+  "homepage": "https://github.com/shashankKeshava/LearningTypescript#readme"
+}
